@@ -16,7 +16,7 @@
         android:textAlignment="center"
         android:textColor="@color/colorAccent"
         android:textFontWeight="@android:integer/config_mediumAnimTime"
-        android:textSize="36sp"
+        android:textSize="29sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
